@@ -1,1 +1,1 @@
-my first readme
+Education is key
